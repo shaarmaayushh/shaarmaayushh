@@ -1,4 +1,4 @@
-<img align="center" alt="Coding"  src="https://media1.tenor.com/m/naR85rQtmLsAAAAC/code-secret.gif">
+<img align="center" alt="Coding" widht="400" src="https://media1.tenor.com/m/naR85rQtmLsAAAAC/code-secret.gif">
 <h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
 <h3 align="center">A passionated person for technology</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnluOXU2Ym51bW42d2d0NHR4MWNmeW5ydGY0Znk4ZTljdnc3cTJ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif">
